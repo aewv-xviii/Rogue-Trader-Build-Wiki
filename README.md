@@ -29,14 +29,12 @@
 
 ## 포함/제외
 
-저장소에는 브라우저에서 바로 쓰기 위한 정적 페이지와 필요한 이미지 자산만 포함합니다.
+저장소에는 브라우저에서 바로 쓰기 위한 정적 페이지와 문서만 포함합니다.
 
 대용량 생성 JSON, 원본/출력 XLSX, 로컬 검사 로그, 추출 작업 폴더는 `.gitignore`로 제외했습니다.
 
 ## 크레딧
 
-- Build data: Revan619 and the Rogue Trader community spreadsheet contributors
-- Viewer/search UI: local static viewer for easier lookup
+빌드 데이터의 출처는 Revan619와 Rogue Trader 커뮤니티 스프레드시트 기여자들에게 있습니다.
 
 This project is not affiliated with Owlcat Games, Games Workshop, or the original spreadsheet maintainers.
-
