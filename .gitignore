@@ -1,0 +1,41 @@
+# Local/runtime noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.pid
+*.out
+*.err
+.env
+.env.*
+
+# Dependency/build folders
+node_modules/
+dist/
+build/
+.cache/
+
+# Local QA/output artifacts
+output/
+*.ndjson
+*.inspect.ndjson
+*_preview.png
+
+# Generated lookup exports kept out of the repo because index.html embeds the data used by the viewer.
+build_level_lookup.json
+main_party_level_lookup.json
+party_level_lookup.json
+localized_terms.json
+verification_failures.csv
+validation_summary.json
+change_log.csv
+
+# Spreadsheet inputs/exports
+*.xlsx
+*.xlsm
+*.xls
+
+# Local extraction/build workspace data
+work/
+
