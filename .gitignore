@@ -18,6 +18,7 @@ build/
 
 # Local QA/output artifacts
 output/
+assets/
 *.ndjson
 *.inspect.ndjson
 *_preview.png
@@ -38,4 +39,3 @@ change_log.csv
 
 # Local extraction/build workspace data
 work/
-
